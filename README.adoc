@@ -1,1 +1,12 @@
 = QuizBuilder Project
+
+L'objectif de ce projet est de proposer une application de type client-serveur permetant la création et l'exécutution de Quiz en ligne.
+
+
+.Exemple de diagramme PlantUML
+[plantuml,,svg]
+....
+class Question {
+    title : String
+}
+....
